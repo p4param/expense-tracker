@@ -13,7 +13,7 @@ interface ExpenseContextType {
     createGroup: (name: string, email?: string) => Promise<string | null>;
     joinGroup: (id: string) => Promise<boolean>;
     leaveGroup: () => void;
-    addUser: (name: string) => void;
+    addUser: (name: string, email?: string) => void;
     deleteUser: (id: string) => boolean;
     addExpense: (expense: Omit<Expense, 'id'>) => void;
     updateExpense: (id: string, expense: Omit<Expense, 'id'>) => void;
