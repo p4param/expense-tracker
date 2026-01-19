@@ -1,0 +1,152 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+  padding-bottom: var(--space-xl);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.actions {
+  display: flex;
+  gap: var(--space-sm);
+}
+
+.sectionTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: var(--space-md);
+  color: var(--text-main);
+}
+
+.emptyState {
+  text-align: center;
+  padding: var(--space-lg);
+}
+
+.mt {
+  margin-top: var(--space-md);
+}
+
+.settledCard {
+  background: linear-gradient(135deg, var(--bg-surface), var(--bg-card));
+  text-align: center;
+  color: var(--success);
+  font-weight: 500;
+}
+
+.debtList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.debtCard {
+  border-left: 4px solid var(--danger);
+}
+
+.debtRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.debtText {
+  color: var(--text-muted);
+}
+
+.debtText strong {
+  color: var(--text-main);
+}
+
+.debtAmount {
+  font-weight: 700;
+  color: var(--danger);
+  font-size: 1.125rem;
+}
+
+.expenseList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.expenseItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--space-md);
+  background: var(--bg-surface);
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-color);
+}
+
+.expenseInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.expenseDesc {
+  font-weight: 500;
+  color: var(--text-main);
+}
+
+.expenseMeta {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.expenseRight {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.expenseAmount {
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+.emptyText {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.deleteBtn {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--bg-app);
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  line-height: 1;
+  transition: all var(--transition-fast);
+}
+
+.deleteBtn:hover {
+  background: var(--danger);
+  color: white;
+}
+
+.resetBtn {
+  background: none;
+  border: 1px solid var(--danger);
+  color: var(--danger);
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  transition: all var(--transition-fast);
+}
+
+.resetBtn:hover {
+  background: var(--danger);
+  color: white;
+}

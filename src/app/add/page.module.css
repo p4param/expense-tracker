@@ -1,0 +1,68 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-md);
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+}
+
+.label {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-muted);
+}
+
+.userGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+}
+
+.userChip {
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    transition: all var(--transition-fast);
+}
+
+.userChip.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+}
+
+.splitHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.textBtn {
+    background: none;
+    color: var(--primary);
+    font-size: 0.875rem;
+    padding: 0;
+}
+
+.actions {
+    display: flex;
+    gap: var(--space-md);
+    margin-top: var(--space-md);
+}
+
+.actions>* {
+    flex: 1;
+}

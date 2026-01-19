@@ -1,0 +1,361 @@
+{
+  "groups": {
+    "b7cdc398": {
+      "name": "Square One",
+      "users": [
+        {
+          "id": "a8e6b7ac-bb3a-4261-aea6-e49c28d2519d",
+          "name": "Baabu"
+        },
+        {
+          "id": "8406996c-2121-4447-b42f-0dd6e5d104d9",
+          "name": "Goldy"
+        },
+        {
+          "id": "12d4e0a4-f7a8-42f8-adba-51ccd967ed6c",
+          "name": "Amit"
+        },
+        {
+          "id": "5a47370e-f795-478c-863c-e6bd6d27fb05",
+          "name": "Prince"
+        }
+      ],
+      "expenses": [
+        {
+          "description": "Dinner",
+          "amount": 2500,
+          "payerId": "a8e6b7ac-bb3a-4261-aea6-e49c28d2519d",
+          "involvedUserIds": [
+            "a8e6b7ac-bb3a-4261-aea6-e49c28d2519d",
+            "8406996c-2121-4447-b42f-0dd6e5d104d9",
+            "12d4e0a4-f7a8-42f8-adba-51ccd967ed6c",
+            "5a47370e-f795-478c-863c-e6bd6d27fb05"
+          ],
+          "date": "2026-01-18T17:56:40.404Z",
+          "id": "ab013fed-a3ed-44fe-b1fe-8bdc38577e01"
+        }
+      ]
+    },
+    "864bceb1": {
+      "name": "Goa Trip",
+      "users": [
+        {
+          "id": "2f1bb2ca-291b-472f-a706-aa01a4f70e8d",
+          "name": "a"
+        },
+        {
+          "id": "6d8f9562-546e-4fc9-90e1-713bcafb8c1d",
+          "name": "b"
+        },
+        {
+          "id": "b1fe2950-ea83-4ceb-a035-f51780439b46",
+          "name": "c"
+        },
+        {
+          "id": "5f095757-2e1e-4e02-9d4f-d0c9a5e82c90",
+          "name": "d"
+        },
+        {
+          "id": "36fd94a3-ec3b-4efb-b92a-5ed858e8abcc",
+          "name": "e"
+        }
+      ],
+      "expenses": []
+    },
+    "1cf66cc9": {
+      "name": "Rishikesh Trip",
+      "users": [
+        {
+          "id": "7e1c4d2c-f90d-451a-a214-bbed421dd8aa",
+          "name": "a"
+        },
+        {
+          "id": "e84594ee-dcbf-4337-8b17-727916ad8b93",
+          "name": "b"
+        },
+        {
+          "id": "c5737293-bcba-414c-be6a-746c67eb7b4c",
+          "name": "c"
+        },
+        {
+          "id": "0fe7b7b5-2ae9-4906-bec6-cf5334862329",
+          "name": "d"
+        },
+        {
+          "id": "d46ae2da-6182-4fbb-91d4-3a64cd3a51cf",
+          "name": "e"
+        }
+      ],
+      "expenses": [
+        {
+          "description": "x",
+          "amount": 3333,
+          "payerId": "7e1c4d2c-f90d-451a-a214-bbed421dd8aa",
+          "involvedUserIds": [
+            "7e1c4d2c-f90d-451a-a214-bbed421dd8aa",
+            "e84594ee-dcbf-4337-8b17-727916ad8b93",
+            "c5737293-bcba-414c-be6a-746c67eb7b4c",
+            "0fe7b7b5-2ae9-4906-bec6-cf5334862329",
+            "d46ae2da-6182-4fbb-91d4-3a64cd3a51cf"
+          ],
+          "date": "2026-01-18T18:19:15.996Z",
+          "id": "1bcb9b6f-3b62-4fa4-9d29-5b059bf30040"
+        },
+        {
+          "description": "Boating",
+          "amount": 1000,
+          "payerId": "e84594ee-dcbf-4337-8b17-727916ad8b93",
+          "involvedUserIds": [
+            "7e1c4d2c-f90d-451a-a214-bbed421dd8aa",
+            "e84594ee-dcbf-4337-8b17-727916ad8b93",
+            "c5737293-bcba-414c-be6a-746c67eb7b4c",
+            "0fe7b7b5-2ae9-4906-bec6-cf5334862329",
+            "d46ae2da-6182-4fbb-91d4-3a64cd3a51cf"
+          ],
+          "date": "2026-01-18T18:16:30.917Z",
+          "id": "98ca6fef-140b-48c3-85be-b8b1901411a9"
+        },
+        {
+          "description": "dinner",
+          "amount": 1500,
+          "payerId": "7e1c4d2c-f90d-451a-a214-bbed421dd8aa",
+          "involvedUserIds": [
+            "7e1c4d2c-f90d-451a-a214-bbed421dd8aa",
+            "e84594ee-dcbf-4337-8b17-727916ad8b93",
+            "c5737293-bcba-414c-be6a-746c67eb7b4c",
+            "0fe7b7b5-2ae9-4906-bec6-cf5334862329",
+            "d46ae2da-6182-4fbb-91d4-3a64cd3a51cf"
+          ],
+          "date": "2026-01-18T18:15:26.926Z",
+          "id": "05273bbe-4a7d-4595-9fc3-3df3e91f2a9f"
+        }
+      ]
+    },
+    "70b69379": {
+      "name": "xxx",
+      "users": [
+        {
+          "id": "08df84a5-d5eb-4ddb-97fb-03d02f7392f6",
+          "name": "a"
+        },
+        {
+          "id": "9366ca08-a9c4-4c81-97df-42832e393743",
+          "name": "b"
+        },
+        {
+          "id": "9b429aa6-2b09-47c8-9144-ea9b1e8f234b",
+          "name": "c"
+        },
+        {
+          "id": "23c373a4-d69f-4975-a351-17bf0226bbed",
+          "name": "d"
+        }
+      ],
+      "expenses": [
+        {
+          "description": "a",
+          "amount": 1111,
+          "payerId": "08df84a5-d5eb-4ddb-97fb-03d02f7392f6",
+          "involvedUserIds": [
+            "08df84a5-d5eb-4ddb-97fb-03d02f7392f6",
+            "9366ca08-a9c4-4c81-97df-42832e393743",
+            "9b429aa6-2b09-47c8-9144-ea9b1e8f234b",
+            "23c373a4-d69f-4975-a351-17bf0226bbed"
+          ],
+          "date": "2026-01-18T18:20:03.196Z",
+          "id": "c689f639-c504-4063-9f6d-dcbcd802469c"
+        }
+      ]
+    },
+    "ebe29166": {
+      "name": "Goa Trip",
+      "users": [
+        {
+          "id": "1ae71d36-3d7d-4000-89df-925c86f80a70",
+          "name": "a"
+        },
+        {
+          "id": "720149fb-c07d-4467-994b-6c3229d5bb1e",
+          "name": "b"
+        },
+        {
+          "id": "92bb2d72-1dc7-4aea-86a3-2ae138b46cb1",
+          "name": "c"
+        },
+        {
+          "id": "6fb0e609-b8ac-41a1-8ef6-f8349fdc6e57",
+          "name": "d"
+        }
+      ],
+      "expenses": [
+        {
+          "description": "c",
+          "amount": 1122,
+          "payerId": "92bb2d72-1dc7-4aea-86a3-2ae138b46cb1",
+          "involvedUserIds": [
+            "1ae71d36-3d7d-4000-89df-925c86f80a70",
+            "720149fb-c07d-4467-994b-6c3229d5bb1e",
+            "92bb2d72-1dc7-4aea-86a3-2ae138b46cb1",
+            "6fb0e609-b8ac-41a1-8ef6-f8349fdc6e57"
+          ],
+          "date": "2026-01-18T18:24:03.573Z",
+          "id": "22819a30-7358-46c8-826e-180944b52ceb"
+        },
+        {
+          "description": "b",
+          "amount": 222,
+          "payerId": "720149fb-c07d-4467-994b-6c3229d5bb1e",
+          "involvedUserIds": [
+            "1ae71d36-3d7d-4000-89df-925c86f80a70",
+            "720149fb-c07d-4467-994b-6c3229d5bb1e",
+            "92bb2d72-1dc7-4aea-86a3-2ae138b46cb1",
+            "6fb0e609-b8ac-41a1-8ef6-f8349fdc6e57"
+          ],
+          "date": "2026-01-18T18:22:48.312Z",
+          "id": "c169691e-3c94-4569-84b6-c8f4ec065ba7"
+        },
+        {
+          "description": "a",
+          "amount": 111,
+          "payerId": "1ae71d36-3d7d-4000-89df-925c86f80a70",
+          "involvedUserIds": [
+            "1ae71d36-3d7d-4000-89df-925c86f80a70",
+            "720149fb-c07d-4467-994b-6c3229d5bb1e",
+            "92bb2d72-1dc7-4aea-86a3-2ae138b46cb1",
+            "6fb0e609-b8ac-41a1-8ef6-f8349fdc6e57"
+          ],
+          "date": "2026-01-18T18:22:32.798Z",
+          "id": "9c2f745a-44a0-473c-a7cc-6d981f5f7d58"
+        }
+      ]
+    },
+    "d7ab0333": {
+      "name": "Kasauli Trip",
+      "users": [
+        {
+          "id": "8056f44b-7517-419d-8c22-794fd9eb2138",
+          "name": "Aman"
+        },
+        {
+          "id": "00a414c7-8ba9-4240-97d7-61e30f28e87e",
+          "name": "Raman"
+        },
+        {
+          "id": "83ed3529-c97c-49b3-bfd2-40e7be656683",
+          "name": "Sanju"
+        },
+        {
+          "id": "aafee967-8412-4535-97ef-38b993dda876",
+          "name": "Sabby"
+        },
+        {
+          "id": "6c403865-273e-4180-a1c0-022870d5d7b2",
+          "name": "Prince"
+        }
+      ],
+      "expenses": [
+        {
+          "description": "Water Petty",
+          "amount": 500,
+          "payerId": "aafee967-8412-4535-97ef-38b993dda876",
+          "involvedUserIds": [
+            "00a414c7-8ba9-4240-97d7-61e30f28e87e",
+            "83ed3529-c97c-49b3-bfd2-40e7be656683",
+            "aafee967-8412-4535-97ef-38b993dda876",
+            "6c403865-273e-4180-a1c0-022870d5d7b2"
+          ],
+          "date": "2026-01-18T18:39:32.967Z",
+          "id": "49116618-2da1-409c-b1ca-eacc732b39fc"
+        },
+        {
+          "description": "Boating",
+          "amount": 1500,
+          "payerId": "83ed3529-c97c-49b3-bfd2-40e7be656683",
+          "involvedUserIds": [
+            "8056f44b-7517-419d-8c22-794fd9eb2138",
+            "00a414c7-8ba9-4240-97d7-61e30f28e87e",
+            "83ed3529-c97c-49b3-bfd2-40e7be656683",
+            "aafee967-8412-4535-97ef-38b993dda876",
+            "6c403865-273e-4180-a1c0-022870d5d7b2"
+          ],
+          "date": "2026-01-18T18:36:08.053Z",
+          "id": "922295c2-39c2-416f-b375-39a97915c000"
+        },
+        {
+          "description": "Dinner",
+          "amount": 2500,
+          "payerId": "00a414c7-8ba9-4240-97d7-61e30f28e87e",
+          "involvedUserIds": [
+            "8056f44b-7517-419d-8c22-794fd9eb2138",
+            "00a414c7-8ba9-4240-97d7-61e30f28e87e",
+            "83ed3529-c97c-49b3-bfd2-40e7be656683",
+            "6c403865-273e-4180-a1c0-022870d5d7b2"
+          ],
+          "date": "2026-01-18T18:35:29.909Z",
+          "id": "33940862-6798-4990-86dc-64a9e3262a20"
+        }
+      ]
+    },
+    "7b776b7f": {
+      "name": "Square One",
+      "users": [],
+      "expenses": []
+    },
+    "11454fbc": {
+      "name": "Goa Trip",
+      "users": [
+        {
+          "id": "f3701cfb-e89a-4433-bf58-b35c260e8910",
+          "name": "Raman",
+          "email": "rsandurya@yahoo.com"
+        },
+        {
+          "id": "0129c605-fa62-44bc-8b06-efaed069a7c2",
+          "name": "Aman",
+          "email": "aman@gmail.com"
+        },
+        {
+          "id": "5907f567-b591-4c81-8e3f-8dddc895c7e5",
+          "name": "Sanju",
+          "email": "sanju@gmail.com"
+        }
+      ],
+      "expenses": [
+        {
+          "description": "Paragliding",
+          "amount": 5000,
+          "payerId": "0129c605-fa62-44bc-8b06-efaed069a7c2",
+          "involvedUserIds": [
+            "f3701cfb-e89a-4433-bf58-b35c260e8910",
+            "0129c605-fa62-44bc-8b06-efaed069a7c2"
+          ],
+          "date": "2026-01-19T04:51:46.097Z",
+          "id": "638d8096-2c33-4e3d-9f20-2732098ed983"
+        },
+        {
+          "description": "Boating",
+          "amount": 1500,
+          "payerId": "5907f567-b591-4c81-8e3f-8dddc895c7e5",
+          "involvedUserIds": [
+            "f3701cfb-e89a-4433-bf58-b35c260e8910",
+            "0129c605-fa62-44bc-8b06-efaed069a7c2",
+            "5907f567-b591-4c81-8e3f-8dddc895c7e5"
+          ],
+          "date": "2026-01-19T04:51:36.893Z",
+          "id": "c7525b62-b3f0-4fba-9abd-35611144ada4"
+        },
+        {
+          "description": "Dinner",
+          "amount": 10000,
+          "payerId": "f3701cfb-e89a-4433-bf58-b35c260e8910",
+          "involvedUserIds": [
+            "f3701cfb-e89a-4433-bf58-b35c260e8910",
+            "0129c605-fa62-44bc-8b06-efaed069a7c2"
+          ],
+          "date": "2026-01-19T04:51:10.313Z",
+          "id": "788864a5-b303-4e17-9c08-0a6e18975358"
+        }
+      ]
+    }
+  }
+}
